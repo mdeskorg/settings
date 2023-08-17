@@ -1,1 +1,1 @@
-# Settings Profile fo Laravel Nova 
+# Settings Profile Laravel Nova 
